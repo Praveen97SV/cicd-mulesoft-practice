@@ -45,7 +45,7 @@
 						<!-- mule version format muleruntime-java17 -->
 						<!-- If not provided, will choose the latest Edge version -->
 						<releaseChannel>EDGE</releaseChannel>
-						<!--<muleVersion>4.9.2:6e-java17</muleVersion> -->
+						<!-- <muleVersion>4.9.2:6e-java17</muleVersion> -->
 						<!-- Authentication to do the deployment -->
 						<!-- Connected Apps, clientid and secret for CI Server -->
 						<!-- <connectedAppClientId>${ca_client_id}</connectedAppClientId>-->
